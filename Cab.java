@@ -5,9 +5,9 @@ class Cab
 	{
 		Scanner sc = new Scanner (System.in);
 
-		System.out.println("1 for Day");
-		System.out.println("2 for Night");
-		System.out.println("3 for Full Day");
+		System.out.println("Press 1 for Day Booking");
+		System.out.println("Press 2 for Night Booking");
+		System.out.println("Press 3 for Full Booking");
 		System.out.print("Choose an option: ");
 		int option = sc.nextInt();
 		int fare = 0;
