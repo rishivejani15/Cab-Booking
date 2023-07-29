@@ -1,3 +1,2 @@
 # Cab-Booking
-
-This is a CAB booking program.
+This is a Cab Booking program.
